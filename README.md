@@ -2,6 +2,16 @@
 
 本文档列出本小应用的所有用户输入项、类型、默认值、UI 控件与约束，便于理解或扩展。
 
+## 应用预览
+
+桌面端预览：
+
+![桌面端预览](docs/image-desktop.png)
+
+移动端预览：
+
+![移动端预览](docs/image-mobile.png)
+
 相关源码（快速跳转）：
 - [`src/App.tsx`](apps/loan-calculator/src/App.tsx:1)
 - [`src/utils.ts`](apps/loan-calculator/src/utils.ts:1)
